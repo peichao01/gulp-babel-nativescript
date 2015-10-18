@@ -1,0 +1,30 @@
+{
+  "name": "gulp-babel-nativescript",
+  "version": "1.0.0",
+  "description": "replace gulp-babel compiled es5 content to match nativescript(now is v1.4.2)'s rule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peichao01/gulp-babel-nativescript.git"
+  },
+  "keywords": [
+    "gulp",
+    "babel",
+    "nativescript",
+    "replace",
+    "content"
+  ],
+  "author": "peichao01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peichao01/gulp-babel-nativescript/issues"
+  },
+  "homepage": "https://github.com/peichao01/gulp-babel-nativescript#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "readable-stream": "^2.0.2"
+  }
+}
